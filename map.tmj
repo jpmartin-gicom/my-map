@@ -490,12 +490,17 @@
                          "value":"camera"
                         }, 
                         {
-                         "name":"url",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/meet.google.com\/npu-qxhq-que"
+                        }, 
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
                         }],
                  "rotation":0,
-                 "type":"website",
+                 "type":"area",
                  "visible":true,
                  "width":216,
                  "x":739,
