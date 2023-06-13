@@ -349,10 +349,10 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"AVT-2"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"jitsiTrigger_old",
                          "type":"string",
                          "value":"onaction"
                         }, 
@@ -386,7 +386,7 @@
                  "y":544
                 }, 
                 {
-                 "height":189,
+                 "height":207,
                  "id":16,
                  "name":"jitsiMeetingRoom",
                  "properties":[
@@ -398,10 +398,10 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MeetingRoomAVT-1"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"jitsiTrigger_old",
                          "type":"string",
                          "value":"onaction"
                         }, 
@@ -413,9 +413,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":223,
-                 "x":1043,
-                 "y":102
+                 "width":231,
+                 "x":734,
+                 "y":247
                 }, 
                 {
                  "height":30.3636363636364,
@@ -503,8 +503,8 @@
                  "type":"area",
                  "visible":true,
                  "width":216,
-                 "x":739,
-                 "y":261
+                 "x":1110,
+                 "y":360
                 }],
          "opacity":1,
          "type":"objectgroup",
